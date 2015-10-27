@@ -8,7 +8,7 @@
 html,
 body {
 	font-family: sans-serif;
-	margin: 0;
+	margin: 10px;
 }
 
 .container {
@@ -27,7 +27,7 @@ body {
 
 /*corrects IE min-height bug*/
 html { display: flex;}
-body { width: 100%;}
+body { width: 90%;}
 
 .sfooter {
 	display: flex;
@@ -38,3 +38,6 @@ body { width: 100%;}
 .sfooter-content {
 	flex: 1 0 auto;
 }
+
+/* Change color of the mockup.jpg*/
+
